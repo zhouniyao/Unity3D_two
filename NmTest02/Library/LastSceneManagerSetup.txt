@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EasyTouch_set.unity
+  isLoaded: 1
+  isActive: 1
