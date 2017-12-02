@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "F:/Master2/OpenGLES614/Unity3D\u5B9E\u6218\u6838\u5FC3\u6280\u672F/Chapter2/Assets/Avatar.unity"
+  isLoaded: 1
+  isActive: 1
