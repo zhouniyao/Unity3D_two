@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Palace of Orinthalian/[Scenes]/Palace of Orinthalian/The Palace of
+    Orinthalian.unity
+  isLoaded: 1
+  isActive: 1
